@@ -1,0 +1,54 @@
+#wrapper {
+	width: 100%;
+
+}
+
+article {
+	display: inline-block;
+	width: 30%;
+	margin-left: 2.5%;
+	border: 1px solid lightblue;
+	margin-bottom: 3em;
+}
+
+img {
+	display: block;
+	height: 150px;
+	width: 150px;
+	margin: 1em auto;
+}
+
+.cardTitle {
+	border: 1px dotted lightgray;
+}
+
+h2 {
+	text-align: center;
+}
+
+.cardDescription {
+	text-align: justify;
+	padding: 0 .5em;
+}
+
+.availability {
+	background-color: darkgray;
+	color: yellow;
+	padding: .25em 0;
+}
+
+section div p {
+	font-weight: bold;
+	line-height: .2em;
+	padding-left: 2em;
+	margin-top: .4em;
+}
+
+footer p {
+	font-size: .65em;
+}
+
+header:not(.cardTitle) {
+	padding-left: 1em;
+	font-weight: bold;
+}
