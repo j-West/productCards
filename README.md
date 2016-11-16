@@ -61,3 +61,6 @@ The availability element extends the full width of the card, with a dark grey ba
 Visual example
 
 Here's an image that shows how the cards should appear.
+
+
+![productcardpic](https://cloud.githubusercontent.com/assets/8325457/20357678/79500f9a-abee-11e6-9446-80762d1433d5.png)
