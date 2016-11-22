@@ -1,6 +1,6 @@
 # Product Cards
 
-## This is for the third exercise in front-end-milestones/2-the-static-web
+## Third exercise in front-end-milestones/the-static-web
 
 ### Instructions for exercise:
 
